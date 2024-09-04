@@ -1,0 +1,9 @@
+@url = https://8080-mavyrmldy-sw0409-wmjar6ikrno.ws-us116.gitpod.io
+
+###
+
+GET {{url}}/frutas
+
+###
+
+GET {{url}}//frutas/2
